@@ -8,3 +8,4 @@ librosa
 transformers
 torch
 pandas
+imageio-ffmpeg
